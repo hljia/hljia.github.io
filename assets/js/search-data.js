@@ -398,16 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details-template",
-          title: 'A long announcement with details [template]',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_temp/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile-template",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile: [template]',
-          description: "",
-          section: "News",},{id: "news-awarded-an-nwo-enw-m1-grant-for-the-project-aciaction",
+            },},{id: "news-awarded-an-nwo-enw-m1-grant-for-the-project-aciaction",
           title: 'Awarded an NWO ENW-M1 grant for the project “ACIaction”',
+          description: "",
+          section: "News",},{id: "news-co-lead-the-breakout-session-machine-learning-emulation-and-parameterizations-in-the-ec-esa-aci-workshop",
+          title: 'Co-lead the breakout session “Machine learning, emulation, and parameterizations” in the EC/ESA ACI...',
           description: "",
           section: "News",},{id: "news-gave-an-invited-talk-on-mmppe-at-aerocom-forum",
           title: 'Gave an invited talk on MMPPE at AeroCom Forum',
@@ -422,8 +417,8 @@ ninja.data = [{
           description: "NWO ENW-M1 Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-better-aci-estimates-from-satelltie",
-          title: 'Better ACI estimates from satelltie',
+            },},{id: "projects-better-aci-estimates-from-satellites",
+          title: 'Better ACI estimates from satellites',
           description: "The aim is to derive robust ACI estimates from satellites by disentangling multiple confounding processes that obscure aerosol–cloud causality, with a particular focus on the Twomey effect.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
@@ -434,7 +429,7 @@ ninja.data = [{
               window.location.href = "/projects/3_project/";
             },},{id: "projects-process-understanding-of-aci",
           title: 'Process understanding of ACI',
-          description: "Physical mechanisms governing aerosol–cloud interactions at the process level, e.g., entrainment, updraft dynamics, water competition among aerosols and dispersion effect, etc.",
+          description: "Exploring physical mechanisms governing aerosol–cloud interactions at the process level, e.g., entrainment, updraft dynamics, water competition among aerosols and dispersion effect, etc.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
