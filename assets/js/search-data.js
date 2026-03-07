@@ -30,6 +30,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
+        },{id: "nav-cloud-atlas",
+          title: "Cloud Atlas",
+          description: "A collection of cloud scenes through my lens during daily life and travel.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/cloud_atlas/";
+          },
         },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
