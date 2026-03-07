@@ -7,3 +7,11 @@
 
 "Vision":
   color: "#009f36"
+
+"In revision":
+  url: https://test_hj.com/
+  color: "#00369f"
+
+"Submitted":
+  url: https://test_hj.com/
+  color: "#808080"

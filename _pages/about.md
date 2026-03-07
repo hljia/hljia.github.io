@@ -1,17 +1,18 @@
 ---
 layout: about
-title: about
+title: About me
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: SRON Space Research Organisation Netherlands
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+      <p>Room 4.410, </p>
+      <p>Niels Bohrweg 4</p>
+      <p>2333 CA Leiden</p>
+      <p> ✉️ <a href='mailto:h.jia@sron.nl'>h.jia@sron.nl</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -19,16 +20,16 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 1 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an atmospheric scientist in **Earth Programme at SRON**, studying how interactions between small atmospheric particles (aerosols) and clouds influence Earth’s radiation balance and climate.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research combines climate modelling (using [ICON-HAM](https://redmine.hammoz.ethz.ch/projects/icon-hammoz/wiki) and [ECHAM-HAM](https://redmine.hammoz.ethz.ch/projects/icon-hammoz/wiki)), satellite remote sensing, and in situ measurements to better understand aerosol–cloud processes and reduce uncertainty in aerosol effective radiative forcing and cloud feedback.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+A key focus of my current research is the integration of new satellite observations ([PACE](https://www.sron.nl/missies/active/pace/), [EarthCare](https://earth.esa.int/eogateway/missions/earthcare), amonth others), with **perturbed parameter ensemble (PPE)**, machine learning, and data assimilation to quantify and constrain model uncertainty, ultimately improving the reliability of climate predictions. I currently lead multi-model perturbed parameter ensemble (MMPPE) experiments within [AeroCom Phase IV](https://github.com/aerocom-community/experiments) and the CMIP7 [ACI-PPEMIP](https://wcrp-cmip.org/mips/#registered_mips).
