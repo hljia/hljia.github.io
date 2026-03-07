@@ -402,9 +402,15 @@ ninja.data = [{
           title: 'A long announcement with details [template]',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_temp/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile-template",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile: [template]',
+          description: "",
+          section: "News",},{id: "news-awarded-an-nwo-enw-m1-grant-for-the-project-aciaction",
+          title: 'Awarded an NWO ENW-M1 grant for the project “ACIaction”',
+          description: "",
+          section: "News",},{id: "news-gave-an-invited-talk-on-mmppe-at-aerocom-forum",
+          title: 'Gave an invited talk on MMPPE at AeroCom Forum',
           description: "",
           section: "News",},{id: "news-new-paper-about-optimal-ccn-proxy-is-out-in-science-advances",
           title: 'New paper about optimal CCN proxy is out in Science Advances!',
