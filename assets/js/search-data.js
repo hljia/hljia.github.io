@@ -401,6 +401,9 @@ ninja.data = [{
             },},{id: "news-awarded-an-nwo-enw-m1-grant-for-the-project-aciaction",
           title: 'Awarded an NWO ENW-M1 grant for the project “ACIaction”',
           description: "",
+          section: "News",},{id: "news-lead-mmppe-session-in-24th-aerocom-13th-aerosat-workshop-paris",
+          title: 'Lead MMPPE session in 24th aeroCom/13th AeroSat workshop, Paris',
+          description: "",
           section: "News",},{id: "news-co-lead-the-breakout-session-machine-learning-emulation-and-parameterizations-in-the-ec-esa-aci-workshop",
           title: 'Co-lead the breakout session “Machine learning, emulation, and parameterizations” in the EC/ESA ACI...',
           description: "",
@@ -432,9 +435,9 @@ ninja.data = [{
           description: "Exploring physical mechanisms governing aerosol–cloud interactions at the process level, e.g., entrainment, updraft dynamics, water competition among aerosols and dispersion effect, etc.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-data-assimulition",
+          title: 'Data assimulition',
+          description: "Assimilating SPEXone/PACE aerosol measurements into ECHAM-HAM and ICON-HAM models to improve estimates of aerosol emissions and, consequently, aerosol radiative forcing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-project-6",
