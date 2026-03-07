@@ -16,6 +16,7 @@ profile:
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
+
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
@@ -32,3 +33,5 @@ I am an atmospheric scientist in **Earth Programme at SRON**, studying how inter
 My research combines climate modelling ([ICON-HAM](https://redmine.hammoz.ethz.ch/projects/icon-hammoz/wiki) and [ECHAM-HAM](https://redmine.hammoz.ethz.ch/projects/icon-hammoz/wiki)), satellite remote sensing, and in situ measurements to better understand aerosol–cloud processes and reduce uncertainty in aerosol effective radiative forcing and cloud feedback.
 
 A key focus of my current research is the integration of new satellite observations ([PACE](https://www.sron.nl/missies/active/pace/), [EarthCare](https://earth.esa.int/eogateway/missions/earthcare), amonth others), with **Perturbed Parameter Pnsemble (PPE)**, machine learning, and data assimilation to quantify and constrain model uncertainty, ultimately improving the reliability of climate predictions. I currently lead multi-model PPE (MMPPE) experiments within [AeroCom Phase IV](https://github.com/aerocom-community/experiments) and the CMIP7 [ACI-PPEMIP](https://wcrp-cmip.org/mips/#registered_mips).
+
+<hr>
