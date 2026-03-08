@@ -8,9 +8,11 @@
       {% if entry.icon %}
         <i class="{{ entry.icon }}"></i>
       {% endif %}
-      <strong>{{ entry.name }}:</strong>
+      {{ entry.name }}
       {% if entry.keywords %}
-        {% for keyword in entry.keywords %}
+        {% assign keywords = entry.keywords | split: ';' %}
+        {% for keyword in keywords %}
+          {% assign keyword = keyword | strip %}
           {% if forloop.last %}
             {{ keyword }}
           {% else %}
@@ -24,6 +26,6 @@
 
 <style>
   .interest-item {
-    padding: 0.5rem 0;
+    padding: 0.15rem 0;
   }
 </style>
