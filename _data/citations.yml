@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-20'
+  last_updated: '2026-04-08'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,11 +14,11 @@ papers:
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 91
+    citations: 96
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
-    citations: 12
+    citations: 13
     title: "Exploring aerosol\u2013cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem\u2013SBM model"
     year: '2024'
   XHg1p2AAAAAJ:5nxA0vEk-isC:
@@ -30,7 +30,7 @@ papers:
     title: Exploring aerosol-cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem-SBM model
     year: '2023'
   XHg1p2AAAAAJ:8k81kl-MbHgC:
-    citations: 159
+    citations: 164
     title: Robust evidence for reversal in the aerosol effective climate forcing trend
     year: '2022'
   XHg1p2AAAAAJ:9ZlFYXVOiuMC:
@@ -50,7 +50,7 @@ papers:
     title: Quantifying Aerosol Radiative Forcing Uncertainty Within an Earth System Model Using Perturbed Parameter Ensembles
     year: '2025'
   XHg1p2AAAAAJ:IjCSPb-OGe4C:
-    citations: 26
+    citations: 27
     title: Exploring the influence of two inventories on simulated air pollutants during winter over the Yangtze River Delta
     year: '2019'
   XHg1p2AAAAAJ:L8Ckcad2t8MC:
@@ -70,12 +70,16 @@ papers:
     title: Addressing the difficulties in quantifying droplet number response to aerosol from satellite observations
     year: '2022'
   XHg1p2AAAAAJ:QIV2ME_5wuYC:
-    citations: 10
+    citations: 11
     title: "Revisiting aerosol\u2013cloud interactions from weekly cycles"
     year: '2024'
   XHg1p2AAAAAJ:R3hNpaxXUhUC:
     citations: 0
     title: Uncertainty in aerosol effective radiative forcing from anthropogenic and natural aerosol parameters in ECHAM6. 3-HAM2. 3
+    year: '2026'
+  XHg1p2AAAAAJ:TFP_iSt0sucC:
+    citations: 0
+    title: "Linking observed aerosol\u2013cloud processes and kilometer-scale cloud-resolving simulations over the Amazon rainforest"
     year: '2026'
   XHg1p2AAAAAJ:TQgYirikUcIC:
     citations: 1
@@ -94,15 +98,15 @@ papers:
     title: 'Spatial and seasonal characteristics of particulate matter and gaseous pollution in China: Implications for control policy'
     year: '2019'
   XHg1p2AAAAAJ:UebtZRa9Y70C:
-    citations: 95
+    citations: 99
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods"
     year: '2021'
   XHg1p2AAAAAJ:W7OEmFMy1HYC:
-    citations: 42
+    citations: 43
     title: 'Aerosol chemical component: Simulations with WRF-Chem and comparison with observations in Nanjing'
     year: '2019'
   XHg1p2AAAAAJ:WF5omc3nYNoC:
-    citations: 28
+    citations: 29
     title: Evaluation of dust extinction and vertical profiles simulated by WRF-Chem with CALIPSO and AERONET over North Africa
     year: '2020'
   XHg1p2AAAAAJ:Y0pCki6q_DkC:
@@ -134,11 +138,11 @@ papers:
     title: Earth's energy imbalance trend strengthened by recent aerosol emission reductions
     year: '2023'
   XHg1p2AAAAAJ:d1gkVwhDpl0C:
-    citations: 109
+    citations: 110
     title: Can MODIS AOD be employed to derive PM2. 5 in Beijing-Tianjin-Hebei over China?
     year: '2016'
   XHg1p2AAAAAJ:dhFuZR0502QC:
-    citations: 16
+    citations: 18
     title: "Adjustments to climate perturbations\u2014mechanisms, implications, observational constraints"
     year: '2024'
   XHg1p2AAAAAJ:e5wmG9Sq2KIC:
@@ -161,6 +165,10 @@ papers:
     citations: 0
     title: 'Quantifying and Constraining Aerosol Forcing Uncertainty: From Single-Model to Multi-Model Perturbed Parameter Ensembles'
     year: '2026'
+  XHg1p2AAAAAJ:isC4tDSrTZIC:
+    citations: 0
+    title: Investigating Aerosol-Cloud-Interactions Radiative Impacts combining a New Global Satellite Joint-Dataset and Radiative Transfer Model.
+    year: '2026'
   XHg1p2AAAAAJ:j3f4tGmQtD8C:
     citations: 0
     title: Structural and Parametric Contributions to Aerosol Effective Radiative Forcing Uncertainty in a Two-Model Perturbed Parameter Ensemble
@@ -169,6 +177,10 @@ papers:
     citations: 0
     title: Inferring Aspects of the Aerosol Effective Radiative Forcing from Satellite Observations (Invited Presentation)
     year: '2022'
+  XHg1p2AAAAAJ:k_IJM867U9cC:
+    citations: 0
+    title: "Constraining Satellite Estimates of Aerosol\u2013Cloud Interactions via the Droplet\u2013Aerosol Trends Discrepancy"
+    year: '2026'
   XHg1p2AAAAAJ:mB3voiENLucC:
     citations: 0
     title: "Constraining aerosol\u2013cloud radiative forcing using present-day observations"
@@ -182,7 +194,7 @@ papers:
     title: Investigating impact of emission inventories on PM2. 5 simulations over North China Plain by WRF-Chem
     year: '2018'
   XHg1p2AAAAAJ:qxL8FJ1GzNcC:
-    citations: 39
+    citations: 40
     title: "Frontiers in satellite\u2010based estimates of cloud\u2010mediated aerosol forcing"
     year: '2023'
   XHg1p2AAAAAJ:r0BpntZqJG4C:
