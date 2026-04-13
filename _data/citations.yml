@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-13'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 96
+    citations: 98
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
@@ -22,7 +22,7 @@ papers:
     title: "Exploring aerosol\u2013cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem\u2013SBM model"
     year: '2024'
   XHg1p2AAAAAJ:5nxA0vEk-isC:
-    citations: 23
+    citations: 25
     title: The time scales of climate responses to carbon dioxide and aerosols
     year: '2023'
   XHg1p2AAAAAJ:7PzlFSSx8tAC:
@@ -30,7 +30,7 @@ papers:
     title: Exploring aerosol-cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem-SBM model
     year: '2023'
   XHg1p2AAAAAJ:8k81kl-MbHgC:
-    citations: 164
+    citations: 165
     title: Robust evidence for reversal in the aerosol effective climate forcing trend
     year: '2022'
   XHg1p2AAAAAJ:9ZlFYXVOiuMC:
@@ -62,7 +62,7 @@ papers:
     title: Comparisons and evaluation of aerosol burden and optical depth in CMIP5 simulations over East Asia
     year: '2020'
   XHg1p2AAAAAJ:M3ejUd6NZC8C:
-    citations: 40
+    citations: 41
     title: Nonlinearity of the cloud response postpones climate penalty of mitigating air pollution in polluted regions
     year: '2023'
   XHg1p2AAAAAJ:MXK_kJrjxJIC:
@@ -74,7 +74,7 @@ papers:
     title: "Revisiting aerosol\u2013cloud interactions from weekly cycles"
     year: '2024'
   XHg1p2AAAAAJ:R3hNpaxXUhUC:
-    citations: 0
+    citations: 1
     title: Uncertainty in aerosol effective radiative forcing from anthropogenic and natural aerosol parameters in ECHAM6. 3-HAM2. 3
     year: '2026'
   XHg1p2AAAAAJ:TFP_iSt0sucC:
@@ -142,7 +142,7 @@ papers:
     title: Can MODIS AOD be employed to derive PM2. 5 in Beijing-Tianjin-Hebei over China?
     year: '2016'
   XHg1p2AAAAAJ:dhFuZR0502QC:
-    citations: 18
+    citations: 20
     title: "Adjustments to climate perturbations\u2014mechanisms, implications, observational constraints"
     year: '2024'
   XHg1p2AAAAAJ:e5wmG9Sq2KIC:
@@ -194,7 +194,7 @@ papers:
     title: Investigating impact of emission inventories on PM2. 5 simulations over North China Plain by WRF-Chem
     year: '2018'
   XHg1p2AAAAAJ:qxL8FJ1GzNcC:
-    citations: 40
+    citations: 42
     title: "Frontiers in satellite\u2010based estimates of cloud\u2010mediated aerosol forcing"
     year: '2023'
   XHg1p2AAAAAJ:r0BpntZqJG4C:
