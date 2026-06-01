@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-01'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 103
+    citations: 110
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
@@ -30,7 +30,7 @@ papers:
     title: Exploring aerosol-cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem-SBM model
     year: '2023'
   XHg1p2AAAAAJ:8k81kl-MbHgC:
-    citations: 172
+    citations: 179
     title: Robust evidence for reversal in the aerosol effective climate forcing trend
     year: '2022'
   XHg1p2AAAAAJ:9ZlFYXVOiuMC:
@@ -70,11 +70,11 @@ papers:
     title: Strategizing emission cuts in China to mitigate short-term warming from clean air policies
     year: '2026'
   XHg1p2AAAAAJ:M3ejUd6NZC8C:
-    citations: 43
+    citations: 44
     title: Nonlinearity of the cloud response postpones climate penalty of mitigating air pollution in polluted regions
     year: '2023'
   XHg1p2AAAAAJ:MXK_kJrjxJIC:
-    citations: 37
+    citations: 38
     title: Addressing the difficulties in quantifying droplet number response to aerosol from satellite observations
     year: '2022'
   XHg1p2AAAAAJ:QIV2ME_5wuYC:
@@ -102,15 +102,15 @@ papers:
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods, Nat. Commun., 12, 3649"
     year: '2021'
   XHg1p2AAAAAJ:UeHWp8X0CEIC:
-    citations: 114
+    citations: 115
     title: 'Spatial and seasonal characteristics of particulate matter and gaseous pollution in China: Implications for control policy'
     year: '2019'
   XHg1p2AAAAAJ:UebtZRa9Y70C:
-    citations: 101
+    citations: 103
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods"
     year: '2021'
   XHg1p2AAAAAJ:W7OEmFMy1HYC:
-    citations: 44
+    citations: 45
     title: 'Aerosol chemical component: Simulations with WRF-Chem and comparison with observations in Nanjing'
     year: '2019'
   XHg1p2AAAAAJ:WF5omc3nYNoC:
@@ -118,7 +118,7 @@ papers:
     title: Evaluation of dust extinction and vertical profiles simulated by WRF-Chem with CALIPSO and AERONET over North Africa
     year: '2020'
   XHg1p2AAAAAJ:Y0pCki6q_DkC:
-    citations: 56
+    citations: 57
     title: Is positive correlation between cloud droplet effective radius and aerosol optical depth over land due to retrieval artifacts or real physical processes?
     year: '2019'
   XHg1p2AAAAAJ:YsMSGLbcyi4C:
@@ -130,7 +130,7 @@ papers:
     title: A nonlinear cloud response delays the warming effect of aerosol reductions
     year: '2023'
   XHg1p2AAAAAJ:Zph67rFs4hoC:
-    citations: 21
+    citations: 22
     title: "Projecting stratocumulus transitions on the albedo\u2014Cloud fraction relationship reveals linearity of albedo to droplet concentrations"
     year: '2022'
   XHg1p2AAAAAJ:_FxGoFyzp5QC:
@@ -138,7 +138,7 @@ papers:
     title: Size-resolved aerosol module development and aerosol climatic effects
     year: '2018'
   XHg1p2AAAAAJ:_Qo2XoVZTnwC:
-    citations: 0
+    citations: 2
     title: Optimal choice of proxy for cloud condensation nuclei reduces uncertainty in aerosol-cloud-climate forcing
     year: '2026'
   XHg1p2AAAAAJ:_kc_bZDykSQC:
@@ -154,7 +154,7 @@ papers:
     title: Can MODIS AOD be employed to derive PM2. 5 in Beijing-Tianjin-Hebei over China?
     year: '2016'
   XHg1p2AAAAAJ:dhFuZR0502QC:
-    citations: 21
+    citations: 23
     title: "Adjustments to climate perturbations\u2014mechanisms, implications, observational constraints"
     year: '2024'
   XHg1p2AAAAAJ:e5wmG9Sq2KIC:
@@ -210,7 +210,7 @@ papers:
     title: Investigating impact of emission inventories on PM2. 5 simulations over North China Plain by WRF-Chem
     year: '2018'
   XHg1p2AAAAAJ:qxL8FJ1GzNcC:
-    citations: 42
+    citations: 43
     title: "Frontiers in satellite\u2010based estimates of cloud\u2010mediated aerosol forcing"
     year: '2023'
   XHg1p2AAAAAJ:r0BpntZqJG4C:
