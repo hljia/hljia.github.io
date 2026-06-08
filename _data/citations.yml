@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-08'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 110
+    citations: 111
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
@@ -50,7 +50,7 @@ papers:
     title: Quantifying Aerosol Radiative Forcing Uncertainty Within an Earth System Model Using Perturbed Parameter Ensembles
     year: '2025'
   XHg1p2AAAAAJ:IjCSPb-OGe4C:
-    citations: 28
+    citations: 29
     title: Exploring the influence of two inventories on simulated air pollutants during winter over the Yangtze River Delta
     year: '2019'
   XHg1p2AAAAAJ:JV2RwH3_ST0C:
@@ -74,7 +74,7 @@ papers:
     title: Nonlinearity of the cloud response postpones climate penalty of mitigating air pollution in polluted regions
     year: '2023'
   XHg1p2AAAAAJ:MXK_kJrjxJIC:
-    citations: 38
+    citations: 39
     title: Addressing the difficulties in quantifying droplet number response to aerosol from satellite observations
     year: '2022'
   XHg1p2AAAAAJ:QIV2ME_5wuYC:
@@ -82,7 +82,7 @@ papers:
     title: "Revisiting aerosol\u2013cloud interactions from weekly cycles"
     year: '2024'
   XHg1p2AAAAAJ:R3hNpaxXUhUC:
-    citations: 1
+    citations: 2
     title: Uncertainty in aerosol effective radiative forcing from anthropogenic and natural aerosol parameters in ECHAM6. 3-HAM2. 3
     year: '2026'
   XHg1p2AAAAAJ:TFP_iSt0sucC:
@@ -114,7 +114,7 @@ papers:
     title: 'Aerosol chemical component: Simulations with WRF-Chem and comparison with observations in Nanjing'
     year: '2019'
   XHg1p2AAAAAJ:WF5omc3nYNoC:
-    citations: 29
+    citations: 30
     title: Evaluation of dust extinction and vertical profiles simulated by WRF-Chem with CALIPSO and AERONET over North Africa
     year: '2020'
   XHg1p2AAAAAJ:Y0pCki6q_DkC:
@@ -210,7 +210,7 @@ papers:
     title: Investigating impact of emission inventories on PM2. 5 simulations over North China Plain by WRF-Chem
     year: '2018'
   XHg1p2AAAAAJ:qxL8FJ1GzNcC:
-    citations: 43
+    citations: 44
     title: "Frontiers in satellite\u2010based estimates of cloud\u2010mediated aerosol forcing"
     year: '2023'
   XHg1p2AAAAAJ:r0BpntZqJG4C:
@@ -222,7 +222,7 @@ papers:
     title: Mixing state of black carbon and its impact on optical properties and radiative forcing over East Asia
     year: '2020'
   XHg1p2AAAAAJ:u-x6o8ySG0sC:
-    citations: 76
+    citations: 77
     title: 'Particulate matter and gaseous pollutions in three megacities over China: Situation and implication'
     year: '2016'
   XHg1p2AAAAAJ:zYLM7Y9cAGgC:
