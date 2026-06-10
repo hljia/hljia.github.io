@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-08'
+  last_updated: '2026-06-10'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 111
+    citations: 112
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
@@ -22,7 +22,7 @@ papers:
     title: "Exploring aerosol\u2013cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem\u2013SBM model"
     year: '2024'
   XHg1p2AAAAAJ:5nxA0vEk-isC:
-    citations: 25
+    citations: 26
     title: The time scales of climate responses to carbon dioxide and aerosols
     year: '2023'
   XHg1p2AAAAAJ:7PzlFSSx8tAC:
@@ -147,7 +147,7 @@ papers:
     year: '2023'
   XHg1p2AAAAAJ:blknAaTinKkC:
     citations: 0
-    title: Aerosol and non-aerosol drivers of regional trends in top-of-atmosphere Albedo over 2002-2020
+    title: "Aerosol and non-aerosol drivers of regional trends in top-of-atmosphere albedo over 2002\u20132020"
     year: '2026'
   XHg1p2AAAAAJ:d1gkVwhDpl0C:
     citations: 110
