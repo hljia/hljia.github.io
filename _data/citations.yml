@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-06-24'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -30,7 +30,7 @@ papers:
     title: Exploring aerosol-cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem-SBM model
     year: '2023'
   XHg1p2AAAAAJ:8k81kl-MbHgC:
-    citations: 177
+    citations: 181
     title: Robust evidence for reversal in the aerosol effective climate forcing trend
     year: '2022'
   XHg1p2AAAAAJ:9ZlFYXVOiuMC:
@@ -70,11 +70,11 @@ papers:
     title: Strategizing emission cuts in China to mitigate short-term warming from clean air policies
     year: '2026'
   XHg1p2AAAAAJ:M3ejUd6NZC8C:
-    citations: 45
+    citations: 46
     title: Nonlinearity of the cloud response postpones climate penalty of mitigating air pollution in polluted regions
     year: '2023'
   XHg1p2AAAAAJ:MXK_kJrjxJIC:
-    citations: 39
+    citations: 40
     title: Addressing the difficulties in quantifying droplet number response to aerosol from satellite observations
     year: '2022'
   XHg1p2AAAAAJ:QIV2ME_5wuYC:
@@ -102,7 +102,7 @@ papers:
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods, Nat. Commun., 12, 3649"
     year: '2021'
   XHg1p2AAAAAJ:UeHWp8X0CEIC:
-    citations: 116
+    citations: 115
     title: 'Spatial and seasonal characteristics of particulate matter and gaseous pollution in China: Implications for control policy'
     year: '2019'
   XHg1p2AAAAAJ:UebtZRa9Y70C:
@@ -110,11 +110,11 @@ papers:
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods"
     year: '2021'
   XHg1p2AAAAAJ:W7OEmFMy1HYC:
-    citations: 46
+    citations: 47
     title: 'Aerosol chemical component: Simulations with WRF-Chem and comparison with observations in Nanjing'
     year: '2019'
   XHg1p2AAAAAJ:WF5omc3nYNoC:
-    citations: 30
+    citations: 31
     title: Evaluation of dust extinction and vertical profiles simulated by WRF-Chem with CALIPSO and AERONET over North Africa
     year: '2020'
   XHg1p2AAAAAJ:Y0pCki6q_DkC:
