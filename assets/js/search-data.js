@@ -408,8 +408,8 @@ ninja.data = [{
             },},{id: "news-awarded-an-nwo-enw-m1-grant-for-the-project-aciaction",
           title: 'Awarded an NWO ENW-M1 grant for the project “ACIaction”',
           description: "",
-          section: "News",},{id: "news-lead-mmppe-session-in-24th-aerocom-13th-aerosat-workshop-paris",
-          title: 'Lead MMPPE session in 24th aeroCom/13th AeroSat workshop, Paris',
+          section: "News",},{id: "news-led-mmppe-session-in-24th-aerocom-13th-aerosat-workshop-paris",
+          title: 'Led MMPPE session in 24th aeroCom/13th AeroSat workshop, Paris',
           description: "",
           section: "News",},{id: "news-co-lead-the-breakout-session-machine-learning-emulation-and-parameterizations-in-the-ec-esa-aci-workshop",
           title: 'Co-lead the breakout session “Machine learning, emulation, and parameterizations” in the EC/ESA ACI...',
@@ -421,8 +421,20 @@ ninja.data = [{
           title: 'New paper about optimal CCN proxy is out in Science Advances!',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
-            },},{id: "projects-aciaction",
+              window.location.href = "/news/2026-02-18%20/";
+            },},{id: "news-two-week-research-visit-to-fangqun-yu-s-group-at-ualbany-albany-ny",
+          title: 'Two-week research visit to Fangqun Yu’s Group at UAlbany, Albany, NY',
+          description: "",
+          section: "News",},{id: "news-solicited-talk-in-the-seesion-constraining-climate-tools-for-tackling-model-uncertainty-at-egu26-vienna",
+          title: 'Solicited talk in the seesion ‘Constraining climate: tools for tackling model uncertainty’ at...',
+          description: "",
+          section: "News",},{id: "news-visited-johannes-quaas-s-group-at-university-leipzig",
+          title: 'Visited Johannes Quaas’s group at University Leipzig',
+          description: "",
+          section: "News",},{id: "news-presented-icon-ham-ppe-work-at-the-hammoz-annual-meeting-tropos-leipzig",
+          title: 'Presented ICON-HAM PPE work at the HAMMOZ annual meeting, TROPOS, Leipzig',
+          description: "",
+          section: "News",},{id: "projects-aciaction",
           title: 'ACIaction',
           description: "NWO ENW-M1 Project",
           section: "Projects",handler: () => {
