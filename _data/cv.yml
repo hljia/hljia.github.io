@@ -74,12 +74,16 @@ cv:
         start_date: 2025
         end_date: present
       - position: Science Steering Committee member
-        org_journal_fund: HAMMOZ model x
+        org_journal_fund: HAMMOZ model
         start_date: 2025
         end_date: present
       - position: Board member
         org_journal_fund: Working group “Clouds and Radiation” of IAMAS International Radiation Commission
         start_date: 2025
+        end_date: present
+      - position: Editorial Board member
+        org_journal_fund: Atmospheric Chemistry and Physics
+        start_date: 2026
         end_date: present
       - position: Lead
         org_journal_fund: "AeroCom Phase 4 Multi-Model PPE (MMPPE) experiment | CMIP7 ACI-PPEMIP experiment"
