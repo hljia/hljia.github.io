@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-01'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,15 +10,15 @@ papers:
     title: Addressing the difficulties in quantifying the Twomey effect for marine warm clouds from multi-sensor satellite observations and reanalysis.
     year: '2022'
   XHg1p2AAAAAJ:2osOgNQ5qMEC:
-    citations: 49
+    citations: 50
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 114
+    citations: 115
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
-    citations: 13
+    citations: 14
     title: "Exploring aerosol\u2013cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem\u2013SBM model"
     year: '2024'
   XHg1p2AAAAAJ:5nxA0vEk-isC:
@@ -30,11 +30,11 @@ papers:
     title: Exploring aerosol-cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem-SBM model
     year: '2023'
   XHg1p2AAAAAJ:8k81kl-MbHgC:
-    citations: 181
+    citations: 179
     title: Robust evidence for reversal in the aerosol effective climate forcing trend
     year: '2022'
   XHg1p2AAAAAJ:9ZlFYXVOiuMC:
-    citations: 26
+    citations: 27
     title: 'In-situ observations reveal weak hygroscopicity in the Southern Tibetan Plateau: implications for aerosol activation and indirect effects'
     year: '2024'
   XHg1p2AAAAAJ:9yKSN-GCB0IC:
@@ -82,7 +82,7 @@ papers:
     title: "Revisiting aerosol\u2013cloud interactions from weekly cycles"
     year: '2024'
   XHg1p2AAAAAJ:R3hNpaxXUhUC:
-    citations: 3
+    citations: 4
     title: Uncertainty in aerosol effective radiative forcing from anthropogenic and natural aerosol parameters in ECHAM6. 3-HAM2. 3
     year: '2026'
   XHg1p2AAAAAJ:TFP_iSt0sucC:
@@ -102,7 +102,7 @@ papers:
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods, Nat. Commun., 12, 3649"
     year: '2021'
   XHg1p2AAAAAJ:UeHWp8X0CEIC:
-    citations: 115
+    citations: 116
     title: 'Spatial and seasonal characteristics of particulate matter and gaseous pollution in China: Implications for control policy'
     year: '2019'
   XHg1p2AAAAAJ:UebtZRa9Y70C:
@@ -118,7 +118,7 @@ papers:
     title: Evaluation of dust extinction and vertical profiles simulated by WRF-Chem with CALIPSO and AERONET over North Africa
     year: '2020'
   XHg1p2AAAAAJ:Y0pCki6q_DkC:
-    citations: 58
+    citations: 59
     title: Is positive correlation between cloud droplet effective radius and aerosol optical depth over land due to retrieval artifacts or real physical processes?
     year: '2019'
   XHg1p2AAAAAJ:YsMSGLbcyi4C:
@@ -226,6 +226,6 @@ papers:
     title: 'Particulate matter and gaseous pollutions in three megacities over China: Situation and implication'
     year: '2016'
   XHg1p2AAAAAJ:zYLM7Y9cAGgC:
-    citations: 30
+    citations: 31
     title: Aerosol radiative effects on tropospheric photochemistry with GEOS-Chem simulations
     year: '2019'
