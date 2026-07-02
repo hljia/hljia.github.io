@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am an atmospheric scientist in **Earth Programme at SRON**, studying how interactions between small atmospheric particles (aerosols) and clouds influence Earth’s radiation balance and climate.
+I am an atmospheric scientist in [**Earth Programme at SRON**](https://www.sron.nl/en/), studying how interactions between small atmospheric particles (aerosols) and clouds influence Earth’s radiation balance and climate.
 
 My research combines climate modelling ([ICON-HAM](https://redmine.hammoz.ethz.ch/projects/icon-hammoz/wiki) and [ECHAM-HAM](https://redmine.hammoz.ethz.ch/projects/icon-hammoz/wiki)), satellite remote sensing, and in situ measurements to better understand aerosol–cloud processes and reduce uncertainty in aerosol effective radiative forcing and cloud feedback.
 
