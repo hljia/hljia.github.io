@@ -454,8 +454,8 @@ ninja.data = [{
           description: "NWO ENW-M1 Project",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-better-aci-estimates-from-satellites",
-          title: 'Better ACI estimates from satellites',
+            },},{id: "projects-estimating-aci-from-satellites",
+          title: 'Estimating ACI from satellites',
           description: "The aim is to derive robust ACI estimates from satellites by disentangling multiple confounding processes that obscure aerosol–cloud causality, with a particular focus on the Twomey effect.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
