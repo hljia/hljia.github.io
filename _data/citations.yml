@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-13'
+  last_updated: '2026-07-15'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 118
+    citations: 119
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
@@ -22,7 +22,7 @@ papers:
     title: "Exploring aerosol\u2013cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem\u2013SBM model"
     year: '2024'
   XHg1p2AAAAAJ:5nxA0vEk-isC:
-    citations: 27
+    citations: 28
     title: The time scales of climate responses to carbon dioxide and aerosols
     year: '2023'
   XHg1p2AAAAAJ:7PzlFSSx8tAC:
@@ -70,7 +70,7 @@ papers:
     title: Strategizing emission cuts in China to mitigate short-term warming from clean air policies
     year: '2026'
   XHg1p2AAAAAJ:M3ejUd6NZC8C:
-    citations: 47
+    citations: 48
     title: Nonlinearity of the cloud response postpones climate penalty of mitigating air pollution in polluted regions
     year: '2023'
   XHg1p2AAAAAJ:MXK_kJrjxJIC:
@@ -98,7 +98,7 @@ papers:
     title: "Exploring aerosol\u2013cloud interaction using VOCALS-REx aircraft measurements"
     year: '2019'
   XHg1p2AAAAAJ:ULOm3_A8WrAC:
-    citations: 18
+    citations: 19
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods, Nat. Commun., 12, 3649"
     year: '2021'
   XHg1p2AAAAAJ:UeHWp8X0CEIC:
@@ -106,7 +106,7 @@ papers:
     title: 'Spatial and seasonal characteristics of particulate matter and gaseous pollution in China: Implications for control policy'
     year: '2019'
   XHg1p2AAAAAJ:UebtZRa9Y70C:
-    citations: 104
+    citations: 105
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods"
     year: '2021'
   XHg1p2AAAAAJ:W7OEmFMy1HYC:
@@ -130,7 +130,7 @@ papers:
     title: A nonlinear cloud response delays the warming effect of aerosol reductions
     year: '2023'
   XHg1p2AAAAAJ:Zph67rFs4hoC:
-    citations: 24
+    citations: 25
     title: "Projecting stratocumulus transitions on the albedo\u2014Cloud fraction relationship reveals linearity of albedo to droplet concentrations"
     year: '2022'
   XHg1p2AAAAAJ:_FxGoFyzp5QC:
