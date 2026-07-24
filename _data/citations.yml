@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-15'
+  last_updated: '2026-07-24'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 119
+    citations: 120
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
@@ -50,7 +50,7 @@ papers:
     title: Quantifying Aerosol Radiative Forcing Uncertainty Within an Earth System Model Using Perturbed Parameter Ensembles
     year: '2025'
   XHg1p2AAAAAJ:IjCSPb-OGe4C:
-    citations: 29
+    citations: 30
     title: Exploring the influence of two inventories on simulated air pollutants during winter over the Yangtze River Delta
     year: '2019'
   XHg1p2AAAAAJ:JV2RwH3_ST0C:
@@ -70,19 +70,23 @@ papers:
     title: Strategizing emission cuts in China to mitigate short-term warming from clean air policies
     year: '2026'
   XHg1p2AAAAAJ:M3ejUd6NZC8C:
-    citations: 48
+    citations: 49
     title: Nonlinearity of the cloud response postpones climate penalty of mitigating air pollution in polluted regions
     year: '2023'
   XHg1p2AAAAAJ:MXK_kJrjxJIC:
     citations: 41
     title: Addressing the difficulties in quantifying droplet number response to aerosol from satellite observations
     year: '2022'
+  XHg1p2AAAAAJ:NMxIlDl6LWMC:
+    citations: 0
+    title: "Process-level contributions to uncertainty in aerosol effective radiative forcing: a perturbed parameter ensemble with the aerosol\u2013climate model ICON\u2013HAM"
+    year: '2026'
   XHg1p2AAAAAJ:QIV2ME_5wuYC:
-    citations: 14
+    citations: 15
     title: "Revisiting aerosol\u2013cloud interactions from weekly cycles"
     year: '2024'
   XHg1p2AAAAAJ:R3hNpaxXUhUC:
-    citations: 5
+    citations: 6
     title: Uncertainty in aerosol effective radiative forcing from anthropogenic and natural aerosol parameters in ECHAM6. 3-HAM2. 3
     year: '2026'
   XHg1p2AAAAAJ:TFP_iSt0sucC:
@@ -90,7 +94,7 @@ papers:
     title: "Linking observed aerosol\u2013cloud processes and kilometer-scale cloud-resolving simulations over the Amazon rainforest"
     year: '2026'
   XHg1p2AAAAAJ:TQgYirikUcIC:
-    citations: 1
+    citations: 2
     title: 'Hemispheric Contrast in Aerosol-Cloud Interactions: An Attempt for Detection and Attribution'
     year: '2025'
   XHg1p2AAAAAJ:Tyk-4Ss8FVUC:
@@ -98,7 +102,7 @@ papers:
     title: "Exploring aerosol\u2013cloud interaction using VOCALS-REx aircraft measurements"
     year: '2019'
   XHg1p2AAAAAJ:ULOm3_A8WrAC:
-    citations: 19
+    citations: 20
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods, Nat. Commun., 12, 3649"
     year: '2021'
   XHg1p2AAAAAJ:UeHWp8X0CEIC:
@@ -110,7 +114,7 @@ papers:
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods"
     year: '2021'
   XHg1p2AAAAAJ:W7OEmFMy1HYC:
-    citations: 47
+    citations: 48
     title: 'Aerosol chemical component: Simulations with WRF-Chem and comparison with observations in Nanjing'
     year: '2019'
   XHg1p2AAAAAJ:WF5omc3nYNoC:
@@ -146,7 +150,7 @@ papers:
     title: Earth's energy imbalance trend strengthened by recent aerosol emission reductions
     year: '2023'
   XHg1p2AAAAAJ:blknAaTinKkC:
-    citations: 0
+    citations: 1
     title: "Aerosol and non-aerosol drivers of regional trends in top-of-atmosphere albedo over 2002\u20132020"
     year: '2026'
   XHg1p2AAAAAJ:d1gkVwhDpl0C:
@@ -202,7 +206,7 @@ papers:
     title: "Constraining aerosol\u2013cloud radiative forcing using present-day observations"
     year: '2025'
   XHg1p2AAAAAJ:mVmsd5A6BfQC:
-    citations: 16
+    citations: 17
     title: 'Sensitivity of cloud microphysics to aerosol is highly associated with cloud water content: Implications for indirect radiative forcing'
     year: '2024'
   XHg1p2AAAAAJ:maZDTaKrznsC:
@@ -210,11 +214,11 @@ papers:
     title: 'Estimation of Cloud Condensation Nuclei (CCN) from SPEXone on PACE using a neural network retrieval algorithm: Comparison to AERONET and ATLID/EarthCARE'
     year: '2026'
   XHg1p2AAAAAJ:qjMakFHDy7sC:
-    citations: 45
+    citations: 46
     title: Investigating impact of emission inventories on PM2. 5 simulations over North China Plain by WRF-Chem
     year: '2018'
   XHg1p2AAAAAJ:qxL8FJ1GzNcC:
-    citations: 45
+    citations: 48
     title: "Frontiers in satellite\u2010based estimates of cloud\u2010mediated aerosol forcing"
     year: '2023'
   XHg1p2AAAAAJ:r0BpntZqJG4C:
