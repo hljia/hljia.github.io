@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-09-02'
 papers:
   XHg1p2AAAAAJ:-f6ydRqryjwC:
     citations: 0
@@ -10,11 +10,11 @@ papers:
     title: Addressing the difficulties in quantifying the Twomey effect for marine warm clouds from multi-sensor satellite observations and reanalysis.
     year: '2022'
   XHg1p2AAAAAJ:2osOgNQ5qMEC:
-    citations: 53
+    citations: 56
     title: "Opposite aerosol index\u2010cloud droplet effective radius correlations over major industrial regions and their adjacent oceans"
     year: '2018'
   XHg1p2AAAAAJ:4DMP91E08xMC:
-    citations: 126
+    citations: 130
     title: "Recent reductions in aerosol emissions have increased Earth\u2019s energy imbalance"
     year: '2024'
   XHg1p2AAAAAJ:4TOpqqG69KYC:
@@ -30,17 +30,21 @@ papers:
     title: Exploring aerosol-cloud interactions in liquid-phase clouds over eastern China and its adjacent ocean using the WRF-Chem-SBM model
     year: '2023'
   XHg1p2AAAAAJ:8k81kl-MbHgC:
-    citations: 198
+    citations: 199
     title: Robust evidence for reversal in the aerosol effective climate forcing trend
     year: '2022'
   XHg1p2AAAAAJ:9ZlFYXVOiuMC:
-    citations: 29
+    citations: 31
     title: 'In-situ observations reveal weak hygroscopicity in the Southern Tibetan Plateau: implications for aerosol activation and indirect effects'
     year: '2024'
   XHg1p2AAAAAJ:9yKSN-GCB0IC:
     citations: 6
     title: Aerosol optical properties and direct radiative forcing at Taihu
     year: '2017'
+  XHg1p2AAAAAJ:BqipwSGYUEgC:
+    citations: 0
+    title: Relative roles of aerosol size and hygroscopicity in modulating marine liquid-phase cloud responses under the winter monsoon
+    year: '2026'
   XHg1p2AAAAAJ:HDshCWvjkbEC:
     citations: 3
     title: Theoretische meteorologie 2
@@ -98,19 +102,19 @@ papers:
     title: 'Hemispheric Contrast in Aerosol-Cloud Interactions: An Attempt for Detection and Attribution'
     year: '2025'
   XHg1p2AAAAAJ:Tyk-4Ss8FVUC:
-    citations: 30
+    citations: 31
     title: "Exploring aerosol\u2013cloud interaction using VOCALS-REx aircraft measurements"
     year: '2019'
   XHg1p2AAAAAJ:ULOm3_A8WrAC:
-    citations: 20
+    citations: 21
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods, Nat. Commun., 12, 3649"
     year: '2021'
   XHg1p2AAAAAJ:UeHWp8X0CEIC:
-    citations: 116
+    citations: 117
     title: 'Spatial and seasonal characteristics of particulate matter and gaseous pollution in China: Implications for control policy'
     year: '2019'
   XHg1p2AAAAAJ:UebtZRa9Y70C:
-    citations: 110
+    citations: 111
     title: "Significant underestimation of radiative forcing by aerosol\u2013cloud interactions derived from satellite-based methods"
     year: '2021'
   XHg1p2AAAAAJ:W7OEmFMy1HYC:
@@ -122,7 +126,7 @@ papers:
     title: Evaluation of dust extinction and vertical profiles simulated by WRF-Chem with CALIPSO and AERONET over North Africa
     year: '2020'
   XHg1p2AAAAAJ:Y0pCki6q_DkC:
-    citations: 61
+    citations: 62
     title: Is positive correlation between cloud droplet effective radius and aerosol optical depth over land due to retrieval artifacts or real physical processes?
     year: '2019'
   XHg1p2AAAAAJ:YFjsv_pBGBYC:
@@ -162,7 +166,7 @@ papers:
     title: Can MODIS AOD be employed to derive PM2. 5 in Beijing-Tianjin-Hebei over China?
     year: '2016'
   XHg1p2AAAAAJ:dhFuZR0502QC:
-    citations: 28
+    citations: 29
     title: "Adjustments to climate perturbations\u2014mechanisms, implications, observational constraints"
     year: '2024'
   XHg1p2AAAAAJ:e5wmG9Sq2KIC:
@@ -218,11 +222,11 @@ papers:
     title: 'Estimation of Cloud Condensation Nuclei (CCN) from SPEXone on PACE using a neural network retrieval algorithm: Comparison to AERONET and ATLID/EarthCARE'
     year: '2026'
   XHg1p2AAAAAJ:qjMakFHDy7sC:
-    citations: 45
+    citations: 47
     title: Investigating impact of emission inventories on PM2. 5 simulations over North China Plain by WRF-Chem
     year: '2018'
   XHg1p2AAAAAJ:qxL8FJ1GzNcC:
-    citations: 49
+    citations: 50
     title: "Frontiers in satellite\u2010based estimates of cloud\u2010mediated aerosol forcing"
     year: '2023'
   XHg1p2AAAAAJ:r0BpntZqJG4C:
